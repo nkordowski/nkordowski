@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nathan! <br/><a href="https://github.com/nkordowski/nkordowski">IT Professional</a>, <a href="https://www.linkedin.com/in/nathan-kordowski-33b636176/">Cybersecurity Student</a>, <a href="https://www.youtube.com/channel/UCE_sWWy7_vq9Bzq28T2CKxw">YouTuber</a></h1>
+<h1>Hi, I'm Nathan! <br/><a href="https://github.com/nkordowski/nkordowski">IT Professional</a>, <a href="https://www.linkedin.com/in/nathan-kordowski-33b636176/">Cybersecurity Student</a>, <a href="https://www.youtube.com/channel/UCE_sWWy7_vq9Bzq28T2CKxw">
 
 <h2>👨‍💻 IT Support Projects:</h2>
 
